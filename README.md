@@ -3,7 +3,7 @@
 Automatic download of all PDF reports in "Postmanager inbox"
 
 # Goal
-1. Batch download of unlimited PDF reports based on a predefined timeframe from DAB PostfachManager site.
+1. Unlimited (batch) download of PDF reports based on a predefined timeframe from DAB Postmanager site https://b2b.dab-bank.de/Tradingcenter/Postmanager/
 2. Follow KISS principle.
 
 
