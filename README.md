@@ -1,6 +1,7 @@
-# DAB | SmartBroker - Postmanager - download PDF reports with selenium & python
+# DAB | SmartBroker - Postmanager - download PDF reports with Selenium & Python
 
-Automatic download of all PDF reports in "Postmanager inbox"
+Automatic download of all PDF reports in DAB/SmartBroker "Postmanager inbox"
+
 
 # Goal
 1. Unlimited (batch) download of PDF reports based on a predefined timeframe from DAB Postmanager site https://b2b.dab-bank.de/Tradingcenter/Postmanager/
